@@ -29,9 +29,9 @@ function TM({ events }) {
         <span className="inika-regular text-2xl">
           Computer Science Department Presents
         </span>
-        <span className="inder-regular">Tech Marathon'25</span>
+        <span className="inder-regular">Tech Marathon'26</span>
         <span className="inder-regular text-[2rem]">
-          1<sup>st</sup> march
+          20<sup>th</sup> march
         </span>
       </div>
       <div className="mt-12">
