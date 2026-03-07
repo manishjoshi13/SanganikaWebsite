@@ -1,93 +1,93 @@
 [
 	{
 		"name": "Auction Of Bytes",
-		"date": "1st March, 2025",
-		"time": "11:00 AM",
+		"date": "20th March 2026",
+		"time": "11AM - 2PM",
 		"headline": "Bid, Code, Win: Unveil Coding Excellence!",
 		"description": "/content/TM/aob.md",
 		"poster": "/images/TM/Auction_of_Bytes.png",
 		"id": "aob",
-		"register": "https://forms.gle/nZm9RX1FHDG7YTXz5"
+		"register": "https://forms.gle/ssSGmHFy2hknz8CX6"
 	},
 	{
 		"name": "Tech Wars",
-		"date": "1st March, 2025",
-		"time": "11:00 AM",
+		"date": "20th March 2026",
+		"time": "11AM - 2PM",
 		"headline": "Decode, Visualize, Predict – Unleash the Nexus of Tech Brilliance!",
 		"description": "/content/TM/techwar.md",
 		"poster": "/images/TM/Tech_Wars.png",
 		"id": "techwar",
-		"register": "https://forms.gle/mHCRbRCQs1CQGakUA"
+		"register": "https://forms.gle/jqP5AM9Yfb7CZDdJ7"
 	},
 	{
 		"name": "Turn Court",
-		"date": "1st March, 2025",
-		"time": "1:00 PM",
+		"date": "20th March 2026",
+		"time": "2 PM - 5PM",
 		"headline": "Where Debates Twist and Turns Make Champions!",
 		"description": "/content/TM/turncourt.md",
 		"poster": "/images/TM/Turn_Court.png",
 		"id": "turncourt",
-		"register": "https://forms.gle/ntVHtLa3AQQwHdMx6"
+		"register": "https://forms.gle/gBM4jMvQ3r1Zxci37"
 	},
 	{
 		"name": "Valorant",
-		"date": "1st March, 2025",
-		"time": "3:00 PM",
+		"date": "20th March 2026",
+		"time": "2 PM - 5 PM",
 		"headline": "You want to play, lets play!",
 		"description": "/content/TM/valorant.md",
 		"poster": "/images/TM/Valorant.png",
 		"id": "valorant",
-		"register": "https://forms.gle/4RScWNfV28za9NAz6"
+		"register": "https://forms.gle/ERhyhrnBYfAoNdJ99"
 	},
 	
 	{
-		"name": "Blind Code",
-		"date": "1st March, 2025",
-		"time": "3:00 PM",
-		"headline": "Unveiling Genius: The Blind Code Challenge",
-		"description": "/content/TM/blindcode.md",
-		"poster": "/images/TM/Blind_Code.png",
-		"id": "blindcode",
-		"register": "https://forms.gle/v9ude86ySbyrK3pQ6"
+		"name": "CODE DEBUGGING",
+		"date": "20th March 2026",
+		"time": "2PM - 5PM",
+		"headline": "Spot the bug. Fix the logic. Become the debugging legend!",
+		"description": "/content/TM/codedebugging.md",
+		"poster": "/images/TM/Code_Debugging.png",
+		"id": "codedebugging",
+		"register": "https://forms.gle/QfdRRXUHtgsrSfYj9"
 	},
 	{
-		"name": "Code Benders",
-		"date": "1st March, 2025",
-		"time": "7:00 PM",
-		"headline": "Elevate Your Code Game, No Rules, Just Thrills!",
-		"description": "/content/TM/codebender.md",
-		"poster": "/images/TM/Code_Benders.png",
-		"id": "codebender",
-		"register": "https://forms.gle/ouMVtiPKMvDSat9BA"
+		"name": "DESIGN DISSECT",
+		"date": "20th March 2026",
+		"time": "11AM - 1PM",
+		"headline": "Spot the Flaw. Redesign the Flow.",
+		"description": "/content/TM/designdissect.md",
+		"poster": "/images/TM/Design_Dissect.png",
+		"id": "designdissect",
+		"register": "https://forms.gle/KSSoX2dZDRDfkqts8"
 	},
 	{
 		"name": "Bumble Jumble",
-		"date": "1st March, 2025",
-		"time": "1:00 PM",
+		"date": "20th March 2026",
+		"time": "11AM - 2PM",
 		"headline": "Coding Clash: Unravel the Challenge, Ignite the Code!",
 		"description": "/content/TM/bumble.md",
 		"poster": "/images/TM/Bumble_Jumble.png",
 		"id": "bumblejumble",
-		"register": "https://forms.gle/LrPRBr8fqC4K4tUV7"
+		"register": "https://forms.gle/yXAUPPsofx3D5FSw7"
 	},
 	{
 		"name": "Gamers Roulette",
-		"date": "1st March, 2025",
-		"time": "1:00 PM",
+		"date": "20th March 2026",
+		"time": "2PM - 5PM",
 		"headline": "Unleash the Unpredictable, Game by Game!",
 		"description": "/content/TM/gamer.md",
 		"poster": "/images/TM/Gamers_Roulette.jpg",
 		"id": "gamerroulette",
-		"register": "https://forms.gle/h8mGEs8oyzqbcGWFA"
+		"register": "https://forms.gle/u7mPptnGtRtSmf6w9"
 	},
 	{
 		"name": "Tech Escapade",
-		"date": "1st March, 2025",
-		"time": "02:30 AM",
+		"date": "20th March 2026",
+		"time": "2 PM - 5 PM",
 		"headline": "Uncover Snap Share",
 		"description": "/content/TM/techescapade.md",
 		"poster": "/images/TM/Tech_Escapade.png",
 		"id": "techescapade",
-		"register": "https://forms.gle/HDnWhzauwH6JKoqJ6"
+		"register": "https://forms.gle/K2tJkydKyMAPbdue8"
 	}
 ]

@@ -5,8 +5,8 @@
 # Details
 
 - **Venue** - Deen Dayal Upadhyaya College, Delhi University, Dwarka sector 3,(nearest metro station Dwarka mor)
-- **Date** - 2nd March,2024
-- **Time** - 111:00 am onwards
+- **Date** - 20th March 2026
+- **Time** - 11AM - 2PM
 - **Last date to apply**: 1<sup>st</sup> March, 2024
 
 ---
