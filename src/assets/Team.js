@@ -1,8 +1,8 @@
 const teachers = [
   {
-    name: "Dr. Anuja Soni",
+    name: "Anil Kumar",
     post: "Teacher in charge",
-    src: "/images/teamImages/anuja.png",
+    src: "/images/teamImages/anil.png",
   },
 
   {
@@ -19,161 +19,213 @@ const teachers = [
 ];
 
 // council members
+// PRESIDENT & VICE PRESIDENT
 
 const president = [
-  {
-    name: "Kunal Sharma",
-    post: "President",
-    src: "/images/teamImages/PREZ.png",
-    linkdin:
-      "https://www.linkedin.com/in/kunal-sharma-046631259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    ph: "+91 7011743227",
-    id: 1,
-  },
-
-  {
-    name: "Nitish Ray",
-    post: "Vice President",
-    src: "/images/teamImages/VICE-PREZ.png",
-    linkdin:
-      "https://www.linkedin.com/in/nitish-ray-9579a724a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    ph: "+91 7061931622",
-    id: 2,
-  },
-
-  {
-    name: "Anjali Archana",
-    post: "Vice.President",
-    src: "/images/teamImages/VICE-PREZ2.png",
-    linkdin:
-      "https://www.linkedin.com/in/anjali-archana-649b51296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    ph: "+91 9142231522",
-    id: 3,
-  },
+{
+name: "Atulya Shashwat",
+post: "President",
+src: "/images/teamImages/ATULYA.png",
+linkdin: "https://www.linkedin.com/in/atulya-shashwat-967939297?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+ph: "+91 8887736924",
+id: 1,
+},
+{
+name: "Kaily Singh",
+post: "Vice President",
+src: "/images/teamImages/KAILY.png",
+linkdin: "https://www.linkedin.com/in/kailysingh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+ph: "+91 9311667911",
+id: 2,
+},
+{
+name: "Raghav Naudiyal",
+post: "Vice President",
+src: "/images/teamImages/RAGHAV.png",
+linkdin: "https://www.linkedin.com/in/raghav-naudiyal-011348233?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+ph: "+91 7042300479",
+id: 3,
+},
 ];
+
+// SECRETARIAT
 
 const sec = [
-  {
-    name: "Atulya Shashwat",
-    post: "General Secretary",
-    src: "/images/teamImages/GENSEC.png",
-    linkdin:
-      "https://www.linkedin.com/in/atulya-shashwat-967939297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    ph: "+91 8887736924",
-    id: 1,
-  },
-
-  {
-    name: "Adarsh Singh",
-    post: "Treasurer",
-    src: "/images/teamImages/TREASURER.png",
-    linkdin:
-      "https://www.linkedin.com/in/adarsh-singh-101933285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    ph: "+91 9079876846",
-    id: 3,
-  },
+{
+name: "Ishu Goswami",
+post: "General Secretary",
+src: "/images/teamImages/ISHU.png",
+linkdin: "",
+ph: "+91 9999201100",
+id: 1,
+},
+{
+name: "Suruchi",
+post: "Joint Secretary",
+src: "/images/teamImages/SURUCHI.png",
+linkdin: "https://www.linkedin.com/in/suruchi-tomar-291ba63b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+ph: "+91 8287097721",
+id: 2,
+},
+{
+name: "Rishabh Singh",
+post: "Treasurer",
+src: "/images/teamImages/RISHABH.png",
+linkdin: "https://www.linkedin.com/in/rishabh-singh-4a0645333",
+ph: "+91 8218574126",
+id: 3,
+},
 ];
+
+// EXECUTIVES
 
 const excu = [
-  {
-    name: "Kaily Sneharaj",
-    post: "Executive",
-    src: "/images/teamImages/EXKAILEY.png",
-    linkdin:
-      "https://www.linkedin.com/in/kailysingh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    ph: "+91 9311667911",
-    id: 1,
-  },
-
-  {
-    name: "Aryan Singh",
-    post: "Executive",
-    src: "/images/teamImages/EXARYAN.png",
-    linkdin: "https://www.linkedin.com/in/iamtheajitsingh/",
-    ph: "+91 9599467589",
-    id: 2,
-  },
-
-  {
-    name: "Sania",
-    post: "Executive",
-    src: "/images/teamImages/EXSANIA.png",
-    linkdin:
-      "https://www.linkedin.com/in/sania-khorwal-335442288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    ph: "+91 7678624841",
-    id: 8,
-  },
-
-  {
-    name: "Apoorva Tomar",
-    post: "Executive",
-    src: "/images/teamImages/EXAPOORVA.png",
-    linkdin:
-      "https://www.linkedin.com/in/apoorva-tomar-95105a332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    ph: "+91 6395019426",
-    id: 4,
-  },
-
-  {
-    name: "Raghav Naudiyal",
-    post: "Executive",
-    src: "/images/teamImages/EXRAGHAV.png",
-    linkdin:
-      "https://www.linkedin.com/in/raghav-naudiyal-011348233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    ph: "+91 7042300479",
-    id: 5,
-  },
-
-  {
-    name: "Kripakaran",
-    post: "Executive",
-    src: "/images/teamImages/EXKRIPAKARAN.png",
-    linkdin:
-      "https://www.linkedin.com/in/kripakaran-gautam-1441072a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    ph: "+91 9305075464",
-    id: 6,
-  },
+{
+name: "Amit Singh",
+post: "Executive",
+src: "/images/teamImages/AMIT.png",
+linkdin: "https://www.linkedin.com/in/amit-singh-47833b377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+ph: "+91 8595439471",
+id: 1,
+},
+{
+name: "Rubi Tarani",
+post: "Executive",
+src: "/images/teamImages/RUBI.png",
+linkdin: "https://www.linkedin.com/in/rubi-tarani-ba5940366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+ph: "+91 9690705186",
+id: 2,
+},
+{
+name: "Ritika",
+post: "Executive",
+src: "/images/teamImages/RITIKA.png",
+linkdin: "https://www.linkedin.com/in/ritika-punia-77b345390?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+ph: "+91 8826834288",
+id: 3,
+},
+{
+name: "Pragati",
+post: "Executive",
+src: "/images/teamImages/PRAGATI.png",
+linkdin: "https://www.linkedin.com/in/pragati-garg-57b216399?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+ph: "+91 9968185740",
+id: 4,
+},
+{
+name: "Muskan",
+post: "Executive",
+src: "/images/teamImages/MUSKAN.png",
+linkdin: "",
+ph: "+91 8252937727",
+id: 5,
+},
+{
+name: "Khushboo Chauhan",
+post: "Executive",
+src: "/images/teamImages/KHUSHBOO.png",
+linkdin: "https://www.linkedin.com/in/khushboo-chauhan-7930b9346?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+ph: "+91 9871994526",
+id: 6,
+},
+{
+name: "Bindu",
+post: "Executive",
+src: "/images/teamImages/BINDU.png",
+linkdin: "https://www.linkedin.com/in/bindu-mahrolia-7170b23b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+ph: "+91 8130308194",
+id: 7,
+},
+{
+name: "Varchasva",
+post: "Executive",
+src: "/images/teamImages/VARCHASVA.png",
+linkdin: "https://www.linkedin.com/in/varchasva-rathore-baa0b43b6?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+ph: "+91 7726835370",
+id: 8,
+},
 ];
+
+// PR & SOCIAL MEDIA
 
 const pr = [
-  {
-    name: "Abhinav",
-    post: "PR - Head",
-    src: "/images/teamImages/PRHEAD2.png",
-    linkdin:
-      "https://www.linkedin.com/in/abhinav-gupta-a45935282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    ph: "+91 9755326355",
-    id: 1,
-  },
-  {
-    name: "Vishakha",
-    post: "PR - Head",
-    src: "/images/teamImages/PRHEAD.png",
-    linkdin:
-      "https://www.linkedin.com/in/vishakhasharma24?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    ph: "+91 7737824079",
-    id: 2,
-  },
+{
+name: "Soumyadeep Sen",
+post: "PR Head",
+src: "/images/teamImages/SOUMYADEEP.png",
+linkdin: "https://www.linkedin.com/in/soumyadeep-sen-1051833b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+ph: "+91 8837292547",
+id: 1,
+},
+{
+name: "Dipanky Singh",
+post: "PR Co-Head",
+src: "/images/teamImages/DIPANKY.png",
+linkdin: "",
+ph: "+91 8920066961",
+id: 2,
+},
+{
+name: "Mayuri Shah",
+post: "Social Media Marketing Head",
+src: "/images/teamImages/MAYURI.png",
+linkdin: "https://www.linkedin.com/in/mayuri-shah-b86895384?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+ph: "+91 9089363005",
+id: 3,
+},
+{
+name: "Vandita Gulia",
+post: "Social Media Marketing Co-Head",
+src: "/images/teamImages/VANDITA.png",
+linkdin: "",
+ph: "+91 7065368512",
+id: 4,
+},
 ];
 
+// GRAPHICS & CONTENT
+
 const graphic = [
-  {
-    name: "Shibaditya",
-    post: "Content - Head",
-    src: "/images/teamImages/CONTENT-HEAD.png",
-    linkdin:
-      "https://www.linkedin.com/in/shibaditya-dasgupta-7539012a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    ph: "+91 9810412956",
-    id: 1,
-  },
-  {
-    name: "Yuvraj",
-    post: "Graphics - Head",
-    src: "/images/teamImages/GRAPHIC-HEAD.png",
-    linkdin: "https://www.linkedin.com/in/yuvrajkaushik",
-    ph: "+91 8920845950",
-    id: 2,
-  },
+{
+name: "Sakshi Kumari",
+post: "Content Head",
+src: "/images/teamImages/SAKSHI.png",
+linkdin: "https://www.linkedin.com/in/sakshi-kumari-85a3b1293?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+ph: "+91 9868329948",
+id: 1,
+},
+{
+name: "Gauri Singh",
+post: "Content Co-Head",
+src: "/images/teamImages/GAURI.png",
+linkdin: "https://www.linkedin.com/in/gauri-s-chauhan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+ph: "+91 8218574126",
+id: 2,
+},
+{
+name: "Doman",
+post: "Graphics Head",
+src: "/images/teamImages/DOMAN.png",
+linkdin: "https://www.linkedin.com/in/doman-mahto-452ba4187?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+ph: "+91 8178032638",
+id: 3,
+},
+{
+name: "Manish Joshi",
+post: "Graphics Head",
+src: "/images/teamImages/MANISH.png",
+linkdin: "https://in.linkedin.com/in/manishjoshi13",
+ph: "+91 6395208895",
+id: 4,
+},
+{
+name: "Smaraneeka Majumder",
+post: "Graphics Co-Head",
+src: "/images/teamImages/SMARANEEKA.png",
+linkdin: "",
+ph: "",
+id: 5,
+},
 ];
 
 export default teachers;
