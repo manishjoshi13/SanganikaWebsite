@@ -223,7 +223,7 @@ name: "Smaraneeka Majumder",
 post: "Graphics Co-Head",
 src: "/images/teamImages/SMARANEEKA.png",
 linkdin: "",
-ph: "",
+ph: "+91 7827199459",
 id: 5,
 },
 ];
