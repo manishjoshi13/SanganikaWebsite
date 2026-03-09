@@ -57,14 +57,14 @@ const Footer = () => {
               src={process.env.PUBLIC_URL + "/svg/gmail.svg"}
               alt="not found"
             />
-            <a href="mailto:sanganika.ddu@gmail.com">sanganika.ddu@gmail.com</a>
+            <a href="mailto: dducsanganika@gmail.com "> dducsanganika@gmail.com </a>
           </span>
           <span className="contac-2 flex space-x-4">
             <img
               src={process.env.PUBLIC_URL + "/svg/phone.svg"}
               alt="not found"
             />
-            <a href="tel:+91 70117-43227">+91 70117-43227</a>
+            <a href="tel:+91 70117-43227">+91 8887736924</a>
           </span>
         </div>
       </div>
