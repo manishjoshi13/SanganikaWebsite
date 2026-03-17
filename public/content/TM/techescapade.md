@@ -13,7 +13,7 @@ This isn’t just a competition. It’s a **journey through innovation, strategy
 
 ## 📍 Event Overview
 
-* Participants can register **individually or in teams of 2–3 members**
+* Participants can register **individually or in teams of 1-2 members**
 * The event will consist of **multiple progressive levels**
 * Each level must be cleared to **unlock the next challenge**
 * The competition is **time-bound and highly interactive**
